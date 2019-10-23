@@ -1,4 +1,4 @@
-# spotify
+# VueMusic Top Artist
 
 > Proyecto de Vue.js
 
