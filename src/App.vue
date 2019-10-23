@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png" alt />
+    <img src="https://allangmr.github.io/VueMusic/dist/logo.png" alt />
     <h1>PlatziMusic</h1>
     <select v-model="selectedCountry">
       <option
